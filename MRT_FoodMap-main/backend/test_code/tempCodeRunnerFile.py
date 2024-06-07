@@ -1,0 +1,1 @@
+/api/favorite/<person_id>'
