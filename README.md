@@ -16,3 +16,10 @@
 3. **finalproject-group1-main**
 - Course Project (Course: Data Science)
 - Analysis of IBM emploees attrition
+
+4. **iris data - shiny**
+- Course Assignment(Course: Data Science)
+- PCA & CA analysis of iris data
+
+5. **kaggle**
+- kaggle competition experiences
