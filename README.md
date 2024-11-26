@@ -17,7 +17,9 @@
   - Our prediction accuracy reached PR90% among the whole nation and made it to the final round.
 
 
+
 2. **Analysis - Employee Attrition of IBM**
+- Course Project
 
 
 3. **MRT FoodMap**
@@ -25,9 +27,12 @@
 - Front-end structure designer
 
 
+
 4. **iris data - shiny**
 - Course Assignment(Course: Data Science)
 - PCA & CA analysis of iris data
+
+
 
 5. **kaggle**
 - kaggle competition experiences
