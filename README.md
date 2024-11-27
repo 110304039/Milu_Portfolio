@@ -11,7 +11,7 @@
   - Transforming images into gray-level matrix and the numbers represent different flaw levels of every pixel.
   - CNN model was used to train 131,217 images and the final f1-score of our model reached 0.96.
 - First Round:
-  - Electric Current: Analyzing electric current under 52 combinations ( 13 resistences * 4 voltages ) and predicting furtue     current values
+  - Electric Current: Analyzing electric current under 52 combinations ( 13 resistences * 4 voltages ) and predicting furture current values
   - Regression analysis was used to find the patterns of current under different types of combinations.
   - Time series analysis are used to find the period of current under every combinations.
   - Our prediction accuracy reached PR90% among the whole nation and made it to the final round.
